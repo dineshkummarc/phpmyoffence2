@@ -2,12 +2,6 @@
 include"connect.php";
 ?>
 
-<!--A Design by Hillsofts
-Author: Awolu Faith | +2348138652645
-Author URL: http://w3layouts.com
-License: Creative Commons Attribution 3.0 Unported
-License URL: http://creativecommons.org/licenses/by/3.0/
--->
 <!DOCTYPE html>
 <html lang="en">
 	
@@ -38,11 +32,9 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 				</head>
 				
 <body>
-
 						<div class="swm-right-w3ls">
 							<form action="login2.php" method="post">
 								<div class=" header-side">
-									
 									
 								</div>
 								<div class="main">
@@ -72,12 +64,9 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 	$result->execute();
 	for($i=0; $row = $result->fetch(); $i++){
 ?>
-									<p>&copy;2018 <?php echo $row['site_name']; ?> | Design by 
-										<a href="http://www.lykup.com/Torrahclef" target="_blank">Awolu Faith</a>
-									</p>
+									<p>&copy;2018 <?php echo $row['site_name']; ?></p>
 	<?php } ?>
 								</div>
 							</body>
 						
-<!-- Mirrored from p.w3layouts.com/demos_new/template_demo/10-02-2018/donuts_login_form-demo_Free/1224104968/web/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 29 May 2018 02:38:35 GMT -->
 </html>
