@@ -11,7 +11,6 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <!DOCTYPE html>
 <html lang="en">
 	
-<!-- Mirrored from p.w3layouts.com/demos_new/template_demo/10-02-2018/donuts_login_form-demo_Free/1224104968/web/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 29 May 2018 02:38:29 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 <head>
 <?php 
